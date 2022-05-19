@@ -1,3 +1,5 @@
 # Omnifood
 
-This project is educational 
+Here is the link 
+
+https://first-project-ezekiel.netlify.app/
